@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Webdevelopment,React**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **webdevelopment**
 
 - 📫 How to reach me **aryanrajj1234@gmail.com**
 
