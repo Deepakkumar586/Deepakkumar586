@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkumar586&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkumar586" /> </p>
 
-- 🌱 I’m currently learning **Webdevelopment,React**
+- 🌱 I’m currently learning **python,React**
 
 - 💬 Ask me about **webdevelopment**
 
