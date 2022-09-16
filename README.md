@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/deepak-kumar-41bab6221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak kumar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/deepak-kumar-41bab6221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aryan deep" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100012985965690" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aryan deep" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mr.aryan_official_9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.aryan_official9" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aryanrajj1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepak kumar" height="30" width="40" /></a>
 </p>
