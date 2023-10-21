@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hii👋<Developers/>!,I'm+Deepak+Kumar!&font=Fira%20Code&center=true&width=900&color=f72585&font=Permanent Marker&size=35&height=100&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
-<!-- <h1 align="center">Hi 👋, I'm Deepak Kumar</h1> -->
-<h3 align="center">Be Aware Be Self !</h3>
-<img align="right"  alt="Coding" width="350" height="200" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right"  alt="Coding" width="300" height="200" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 - 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
 
@@ -16,6 +14,8 @@
 ##  About Me
 Eager and passionate entry-level Full-Stack Developer with comprehensive academic training in the MERN (MongoDB, Express, React, Node.js) stack. Through intensive coursework and hands-on projects, I have honed my abilities in developing web applications, with a focus on responsive design, database integration, and server-side development. An enthusiastic learner with a keen eye for detail, I thrive on challenges and am dedicated to delivering high-quality, clean, and efficient code. I'm actively seeking opportunities to bring my skills to a dynamic team, where I can contribute to impactful projects and grow as a developer.
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deepak-kumar-41bab6221/) 
@@ -30,8 +30,7 @@ Eager and passionate entry-level Full-Stack Developer with comprehensive academi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=deepakkumar586&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=deepakkumar586&limit=5&theme=monokai&combine_all_yearly_contributions=true)
