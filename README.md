@@ -5,10 +5,6 @@
 
 <h3 align="center">Enthusiastic and determined Computer Science graduate with a specialization in web development and a deep passion for the MERN (MongoDB, Express, React, Node.js) stack. While relatively new to the industry,I have dedicated numerous hours to mastering web development through hands-on projects, online courses,and university assignments.Possessing a strong foundation in JavaScript and its frameworks, I'm eager to contribute and grow in a challenging environment.Committed to continuous learning and applying best practices,I'm excited to bring my proactive mindset and problem-solving skills to a forward-thinking development team.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkumar586&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkumar586" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakkumar586" alt="deepakkumar586" /></a> </p>
-
 - 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
 
 - 📄 Know about my experiences **https://drive.google.com/file/d/15mENAoFDqCYe55Wqj4B_Wn3yFFnaMfJ9/view**
@@ -33,3 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakkumar586&show_icons=true&locale=en" alt="deepakkumar586" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkumar586&" alt="deepakkumar586" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkumar586&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkumar586" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakkumar586" alt="deepakkumar586" /></a> </p>
