@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hii👋<Developers/>!,I'm+Deepak+Kumar!&font=Fira%20Code&center=true&width=900&color=f72585&font=Permanent Marker&size=35&height=100&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hii👋 <Developers/> ! , I'm+Deepak+Kumar!&font=Fira%20Code&center=true&width=900&color=f72585&font=Permanent Marker&size=35&height=100&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 <img align="right"  alt="Coding" width="250" height="200" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
