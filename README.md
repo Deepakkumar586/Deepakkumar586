@@ -3,7 +3,7 @@
 </p>
 <img align="right"  alt="Coding" width="250" height="200" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-- 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
+- 🌱 I’m currently learning **MERN STACK DEVELOPEMENT**
 
 - 📄 Know about my experiences **https://drive.google.com/file/d/15mENAoFDqCYe55Wqj4B_Wn3yFFnaMfJ9/view**
 
