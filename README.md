@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences **https://drive.google.com/file/d/15mENAoFDqCYe55Wqj4B_Wn3yFFnaMfJ9/view**
 
-- 💬 Ask me about **Frontend Development,Git,GitHub,MernStack Development**
+- 💬 Ask me about **Frontend Development,MernStack Development**
 
 - 📫 How to reach me **aryanrajj1234@gmail.com**
 
