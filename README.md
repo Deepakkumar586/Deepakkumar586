@@ -12,7 +12,9 @@
 - 📫 How to reach me **aryanrajj1234@gmail.com**
 
 ##  About Me
-Eager and passionate entry-level Full-Stack Developer with comprehensive academic training in the MERN (MongoDB, Express, React, Node.js) stack. Through intensive coursework and hands-on projects, I have honed my abilities in developing web applications, with a focus on responsive design, database integration, and server-side development. An enthusiastic learner with a keen eye for detail, I thrive on challenges and am dedicated to delivering high-quality, clean, and efficient code. I'm actively seeking opportunities to bring my skills to a dynamic team, where I can contribute to impactful projects and grow as a developer.
+As an eager and passionate entry-level Full-Stack Developer, I bring comprehensive academic training in the MERN (MongoDB, Express, React, Node.js) stack. Through intensive coursework and hands-on projects, I have honed my abilities in developing web applications, with a focus on responsive design, database integration, and server-side development.
+
+As an enthusiastic learner with a keen eye for detail, I thrive on challenges and am dedicated to delivering high-quality, clean, and efficient code. I am actively seeking opportunities to contribute to impactful projects and grow as a developer within a dynamic team environment.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
