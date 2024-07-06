@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN STACK DEVELOPEMENT**
 
-- 📄 Know about my experiences **https://drive.google.com/file/d/15mENAoFDqCYe55Wqj4B_Wn3yFFnaMfJ9/view**
+- 📄 Know about my experiences **https://drive.google.com/file/d/1yfs_YVwk71x5vNcc0pmBFI1D4EbaTswY/view?usp=drive_link**
 
 - 💬 Ask me about **Frontend Development,MernStack Development**
 
