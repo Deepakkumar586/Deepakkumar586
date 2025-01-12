@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **MERN STACK DEVELOPEMENT**
 
-- 📄 Know about my experiences **https://drive.google.com/file/d/1yfs_YVwk71x5vNcc0pmBFI1D4EbaTswY/view?usp=drive_link**
+- 📄 Know about my experiences **https://drive.google.com/file/d/1_-UdlKFRIAnbHV8VscX5-fUiCJ1ojeQY/view?usp=sharing**
 
 - 💬 Ask me about **Frontend Development,MernStack Development**
 
-- 📫 How to reach me **aryanrajj1234@gmail.com**
+- 📫 How to reach me **deeparyan345@gmail.com**
 
 ##  About Me
 As an eager and passionate entry-level Full-Stack Developer, I bring comprehensive academic training in the MERN (MongoDB, Express, React, Node.js) stack. Through intensive coursework and hands-on projects, I have honed my abilities in developing web applications, with a focus on responsive design, database integration, and server-side development.
